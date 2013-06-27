@@ -50,7 +50,7 @@ def check_grid(grid)
     end
 end
 
-require 'watir-webdriver'
+
 require 'page-object'
 require 'page-object/page_factory'
 require 'date'
