@@ -1,0 +1,10 @@
+server: qa-ubuntu-12-4-64
+grid: none
+browser: firefox
+headless: false
+clear_cookies: false
+agent: none
+name: enterprise
+version: 6.7.0
+bitrock_built: br288
+gw_build: gw1589
