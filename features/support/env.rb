@@ -51,13 +51,6 @@ def check_grid(grid)
 end
 
 
-require 'page-object'
-require 'page-object/page_factory'
-require 'date'
-require 'webdriver-user-agent'
-require 'faker'
-require 'securerandom'
-require 'quoth'
 
 include Selenium
 
